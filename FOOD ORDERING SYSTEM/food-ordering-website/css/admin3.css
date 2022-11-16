@@ -1,0 +1,13 @@
+.success{
+    color: #2ed573;
+}
+.error{
+    color: #ff4757;
+}
+
+.login{
+    border: 1px solid grey;
+    width: 20%;
+    padding: 2%;
+    margin: 10% auto;
+}
